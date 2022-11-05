@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-@author: Rohit Swami
+@author: Saurabh Patil
 Description: This is a pretty simple Python script. This script will download 
 the homepage of https://demo.entitysport.com/ and scrap the live updates whenever 
 there is a Four, Six and fall of Wicket. 
