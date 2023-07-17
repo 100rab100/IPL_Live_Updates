@@ -9,15 +9,7 @@ Notification will contain:
 - Activity of the ball (Eg. DJ Bravo to HH Pandya, Six)
 - Current score with overs 
 
-**Screenshots**
 
-Linux
-
-![Linux Notification](Screenshot/demo-1.png)
-
-Windows
-
-![Windows Notification](Screenshot/demo-2.png)
 
 ## Prerequisites
 The Code is written in Python 3.7. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. 
